@@ -1,0 +1,55 @@
+INFO - 2024-08-21 00:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 00:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 00:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 00:45:34 --> BadMethodCallException: Call to undefined method App\Models\SiswaModel::getSiswa
+[Method: GET, Route: datasiswa_view]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\DatasiswaView.php(10): CodeIgniter\Model->__call('getSiswa', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DatasiswaView->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DatasiswaView))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\projek-spp\\public\\index.php')
+INFO - 2024-08-21 00:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 00:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 00:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 00:53:37 --> BadMethodCallException: Call to undefined method App\Models\SiswaModel::getSiswa
+[Method: GET, Route: datasiswa_view]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\DatasiswaView.php(10): CodeIgniter\Model->__call('getSiswa', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DatasiswaView->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DatasiswaView))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\projek-spp\\public\\index.php')
+CRITICAL - 2024-08-21 00:58:44 --> BadMethodCallException: Call to undefined method App\Models\SiswaModel::getSiswa
+[Method: GET, Route: datasiswa_view]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\DatasiswaView.php(10): CodeIgniter\Model->__call('getSiswa', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DatasiswaView->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DatasiswaView))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\projek-spp\\public\\index.php')
+CRITICAL - 2024-08-21 01:00:15 --> BadMethodCallException: Call to undefined method App\Models\SiswaModel::getSiswa
+[Method: GET, Route: datasiswa_view]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\DatasiswaView.php(10): CodeIgniter\Model->__call('getSiswa', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DatasiswaView->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DatasiswaView))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\projek-spp\\public\\index.php')
+INFO - 2024-08-21 01:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 01:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 01:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 01:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 01:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

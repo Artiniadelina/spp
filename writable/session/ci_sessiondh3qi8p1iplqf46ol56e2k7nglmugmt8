@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1723384812;_ci_previous_url|s:42:"http://localhost:8080/index.php/auth/login";error|s:28:"Username atau password salah";__ci_vars|a:2:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:3:{s:14:"csrf_test_name";s:32:"a932989386e5bf6b125614054bbaedcb";s:8:"username";s:6:"artini";s:8:"password";s:3:"123";}}
